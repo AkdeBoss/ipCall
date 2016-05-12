@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompleteVoiceCall</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_callscreen">Callscreen</string>
+    <string name="title_activity_call_alert">CallAlert</string>
+</resources>
